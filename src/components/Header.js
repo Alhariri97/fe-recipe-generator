@@ -1,5 +1,5 @@
 const Header = () => {
-  return <h3>hello</h3>;
+  return <h3>Welcome to the Random Recipe Generator</h3>;
 };
 
 export default Header;
